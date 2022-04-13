@@ -26,3 +26,9 @@ h1{
     font-family: "shadows";
     text-align: center;
 }
+
+/* Bordes */
+.solid {border-style: solid;
+    border-radius: 1rem;
+    border-width: 5px
+}
